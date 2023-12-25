@@ -3,7 +3,7 @@
 <p style="text-align: center;">Contact details</p>
 Email: kerol@aims.ac.za, Website: https://keroldjoumessi.github.io/
 
-- 🔭 I’m currently working on Interpretable AI for image analysis at the [Hertie Institute for AI in Brain Health](https://hertie.ai) and (IMPRS-IS)[https://imprs.is.mpg.de/] 
+- 🔭 I’m currently working on Interpretable AI for image analysis at the [Hertie Institute for AI in Brain Health](https://hertie.ai) and [IMPRS-IS](https://imprs.is.mpg.de/) 
 - 🌱 I’m currently learning new skills in data science
 - 👯 I’m looking to collaborate on any data science projects
 - 🤔 I’m looking for help with web development and Vision transformer skills
